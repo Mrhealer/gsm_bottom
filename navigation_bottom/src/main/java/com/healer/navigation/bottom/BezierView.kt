@@ -9,9 +9,6 @@ import android.graphics.PointF
 import android.util.AttributeSet
 import android.view.View
 
-/**
- * Created by 1HE on 2/25/2019.
- */
 
 class BezierView : View {
 

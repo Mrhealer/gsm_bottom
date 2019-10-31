@@ -8,10 +8,6 @@ import androidx.core.content.ContextCompat
 import androidx.vectordrawable.graphics.drawable.VectorDrawableCompat
 import java.lang.Exception
 
-/**
- * Created by 1HE on 2/23/2019.
- */
-
 private fun getDP(context: Context) = context.resources.displayMetrics.density
 
 internal fun dipf(context: Context,f: Float) = f * getDP(context)

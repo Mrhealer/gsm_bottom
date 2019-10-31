@@ -6,10 +6,6 @@ import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.interpolator.view.animation.FastOutSlowInInterpolator
 
-/**
- * Created by 1HE on 2/23/2019.
- */
-
 @Suppress("unused", "LeakingThis", "MemberVisibilityCanBePrivate")
 internal class CellImageView : AppCompatImageView {
 

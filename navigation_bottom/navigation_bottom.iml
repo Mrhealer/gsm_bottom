@@ -26,7 +26,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/debug/java;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/release/kotlin;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/release/java;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/debugAndroidTest/kotlin;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/debugUnitTest/kotlin;/Users/healer/Documents/SHOPGIT/Navigation/navigation_bottom/src/releaseUnitTest/kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/debug/java;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/release/kotlin;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/release/java;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/debugAndroidTest/kotlin;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/debugUnitTest/kotlin;/Users/healer/Documents/GitHub/gsm_bottom/navigation_bottom/src/releaseUnitTest/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>

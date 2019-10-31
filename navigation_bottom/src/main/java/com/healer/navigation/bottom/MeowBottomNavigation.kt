@@ -14,10 +14,6 @@ import android.widget.FrameLayout
 import android.widget.LinearLayout
 import androidx.interpolator.view.animation.FastOutSlowInInterpolator
 
-/**
- * Created by 1HE on 10/23/2018.
- */
-
 internal typealias IBottomNavigationListener = (model: MeowBottomNavigation.Model) -> Unit
 
 @Suppress("MemberVisibilityCanBePrivate")

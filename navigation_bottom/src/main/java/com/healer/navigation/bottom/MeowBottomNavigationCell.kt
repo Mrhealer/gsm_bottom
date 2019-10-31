@@ -17,10 +17,6 @@ import androidx.interpolator.view.animation.FastOutSlowInInterpolator
 import kotlinx.android.extensions.LayoutContainer
 import kotlinx.android.synthetic.main.meow_navigation_cell.view.*
 
-/**
- * Created by 1HE on 2/23/2019.
- */
-
 @Suppress("unused")
 class MeowBottomNavigationCell : RelativeLayout, LayoutContainer {
 
